@@ -25,11 +25,11 @@ Your data is not shared with anyone. As all data remains local to your device, t
 User Requests
 If you have any concerns, feedback, or feature requests, you can contact us directly at:
 
-Email: apps@bisgedi.uk
+Email: apps@bisgedi.co.uk
 Changes to This Privacy Policy
 This Privacy Policy may be updated from time to time. Any updates will be reflected in this document, and you are encouraged to review it periodically to stay informed about how your data is handled.
 
 Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-Email: apps@bisgedi.uk
+Email: apps@bisgedi.co.uk
